@@ -1,0 +1,44 @@
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Core.dll
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Data.dll
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Services.dll
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Services.pdb
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Core.pdb
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Data.pdb
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\USER\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Core.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Data.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Services.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Services.pdb
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Core.pdb
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.Data.pdb
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\I'm Pasha\Source\Repos\ConsoleAppPasha\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
